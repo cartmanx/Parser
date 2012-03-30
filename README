@@ -1,0 +1,1 @@
+Simple html files parser. User gives the name of html file in DOS console and program prints out all finded tags and their contents. Made in c++, tested on linux and vista. 
